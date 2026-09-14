@@ -2,7 +2,11 @@
 
 # 👋 Hey, I'm Anvi Jha
 
-### 🤖 AI/ML Engineer in the Making | GenAI • RAG • NLP • DSA
+<p> <b>Computer Science & Data Science Student</b> </p>
+
+<p> <i>SDE mindset • AI/ML curiosity • Problem solving • Continuous learning</i> </p>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+Agentic+AI+%F0%9F%A7%A0;Learning+Transformers+%7C+NLP+%7C+RAG;Turning+ideas+into+real+projects+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -44,123 +48,13 @@
 * 🛠️ **AI-powered Developer Tools**
 
 ---
+## 🧰 Tools I Like
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,git,github,vscode,docker,postman,figma&perline=7" />
 </p>
 
-### 🤖 AI / ML
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge\&logo=google\&logoColor=white)
-
-### 🔎 AI / Data Technologies
-
-![RAG](https://img.shields.io/badge/RAG-Generative%20AI-8B5CF6?style=for-the-badge)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-4B0082?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-6366F1?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-000000?style=for-the-badge)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge\&logo=neo4j\&logoColor=white)
-
-### 🌐 Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
-</p>
-
-### 🧰 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 FlickPick — GraphRAG Movie Recommendation
-
-AI-powered movie recommendation system combining:
-
-* 🧠 Gemini
-* 🔎 Pinecone
-* 🕸️ Neo4j
-* 📄 PDF parsing
-* 🤖 GraphRAG
-
-**Pipeline:**
-
-`User Query → Vector Search → Knowledge Graph → LLM → Recommendations`
-
-</td>
-
-<td width="50%">
-
-### 👨‍💻 Gemini DSA Coding Tutor
-
-An AI-powered coding tutor focused specifically on **Data Structures & Algorithms**.
-
-Features:
-
-* 💡 DSA explanations
-* 🧩 Problem solving
-* 🧠 AI-generated guidance
-* 💻 Coding assistance
-* 🎯 Interview preparation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔍 AI Code Reviewer
-
-A VS Code extension designed to review projects using AI.
-
-Features:
-
-* 📂 Project analysis
-* 🔎 Code review
-* 🐛 Bug detection
-* 💡 Improvement suggestions
-* ✨ AI-assisted fixes
-
-</td>
-
-<td width="50%">
-
-### 🚗 Car Price Prediction
-
-Machine Learning project for predicting used-car prices.
-
-Techniques explored:
-
-* Data preprocessing
-* Feature engineering
-* Regression
-* Outlier analysis
-* Model evaluation
-
-</td>
-</tr>
-</table>
-
----
 
 # 📊 GitHub Stats
 
@@ -182,31 +76,6 @@ Techniques explored:
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnviJha&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🏆 Achievements
-
-🎯 **Smart India Hackathon — First Round**
-
-🏆 **GeeksforGeeks Hackathon**
-
-📜 **Apna College Certification**
-
-💻 **Consistent DSA & LeetCode Practice**
-
-🤖 **AI/ML Project Development**
-
----
 
 # 🧩 Problem Solving
 
@@ -220,27 +89,11 @@ Techniques explored:
 
 <br>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/AnviJha/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
-
----
-
-# 🎯 2026 Goals
-
-```text
-[✓] Build real-world AI/ML projects
-[✓] Explore Generative AI
-[→] Master Transformers & NLP
-[→] Build RAG + Agentic AI systems
-[→] Improve DSA & problem solving
-[→] Contribute to Open Source
-[→] Land an AI/ML Engineering role
-```
-
----
 
 # 🤝 Let's Connect
 
@@ -252,7 +105,7 @@ Techniques explored:
 
 <!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/anvi-jha-bb187a35b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
