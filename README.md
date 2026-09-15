@@ -15,14 +15,6 @@
 
 <br>
 
-<a href="https://github.com/AnviJha">
-  <img src="https://komarev.com/ghpvc/?username=AnviJha&label=Profile%20Views&color=8B5CF6&style=flat" />
-</a>
-&nbsp;
-<a href="https://github.com/AnviJha?tab=followers">
-  <img src="https://img.shields.io/github/followers/AnviJha?label=Followers&style=flat&color=8B5CF6" />
-</a>
-
 </div>
 
 ---
