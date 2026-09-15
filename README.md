@@ -1,6 +1,9 @@
 <div align="center">
 
-# 👋 Hey, I'm Anvi Jha
+<h1 align="center">
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hey, I'm Anvi Jha 
+</h1>
 
 <p> <b>Computer Science & Data Science Student</b> </p>
 
