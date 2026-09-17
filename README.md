@@ -49,18 +49,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,git,github,vscode,docker,postman,figma&perline=7" />
 </p>
 
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnviJha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnviJha&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 # 🔥 GitHub Streak
