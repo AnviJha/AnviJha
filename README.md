@@ -21,14 +21,13 @@
 
 ## 🧠 About Me
 
-```text
 🎓 B.Tech CSE / Data Science Student
 🤖 Focused on AI/ML, Generative AI & Intelligent Systems
 🧠 Exploring Transformers, NLP, RAG & Agentic AI
 💻 Strong interest in DSA, problem solving & software development
 🚀 Building practical AI projects instead of only studying theory
 📚 Currently improving my AI Engineering + DSA skills
-```
+
 
 ---
 
